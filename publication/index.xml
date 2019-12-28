@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Katherine Kempfert</title>
+    <link>https://kkempfert.github.io/publication/</link>
+      <atom:link href="https://kkempfert.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Katherine Kempfert</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kkempfert.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://kkempfert.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Comparison Study on Nonlinear Dimension Reduction Methods with Kernel Variations: Visualization, Optimization and Classification</title>
+      <link>https://kkempfert.github.io/publication/dim_red/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/publication/dim_red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets</title>
+      <link>https://kkempfert.github.io/publication/haydn_mozart/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/publication/haydn_mozart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Studies on a Large Face Database</title>
+      <link>https://kkempfert.github.io/publication/preliminary/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/publication/preliminary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
