@@ -5,7 +5,7 @@
     <link>https://kkempfert.github.io/authors/katherine-c.-kempfert/</link>
       <atom:link href="https://kkempfert.github.io/authors/katherine-c.-kempfert/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine C. Kempfert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kkempfert.github.io/img/icon-192.png</url>
       <title>Katherine C. Kempfert</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A Comparison Study on Nonlinear Dimension Reduction Methods with Kernel Variations: Visualization, Optimization and Classification</title>
-      <link>https://kkempfert.github.io/publication/dim_red/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://kkempfert.github.io/publication/dim_red/</guid>
+      <title>Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets</title>
+      <link>https://kkempfert.github.io/publication/haydn_mozart/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/publication/haydn_mozart/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets</title>
-      <link>https://kkempfert.github.io/publication/haydn_mozart/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kkempfert.github.io/publication/haydn_mozart/</guid>
+      <title>A Comparison Study on Nonlinear Dimension Reduction Methods with Kernel Variations: Visualization, Optimization and Classification</title>
+      <link>https://kkempfert.github.io/publication/dim_red/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/publication/dim_red/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://kkempfert.github.io/authors/</link>
       <atom:link href="https://kkempfert.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kkempfert.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Cuixian Chen</title>
-      <link>https://kkempfert.github.io/authors/cuixian-chen/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://kkempfert.github.io/authors/cuixian-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Katherine C. Kempfert</title>
       <link>https://kkempfert.github.io/authors/katherine-c.-kempfert/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://kkempfert.github.io/authors/katherine-c.-kempfert/</guid>
       <description></description>
     </item>
@@ -31,15 +23,23 @@
     <item>
       <title>Samuel W.K. Wong</title>
       <link>https://kkempfert.github.io/authors/samuel-w.k.-wong/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://kkempfert.github.io/authors/samuel-w.k.-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuixian Chen</title>
+      <link>https://kkempfert.github.io/authors/cuixian-chen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/authors/cuixian-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yishi Wang</title>
       <link>https://kkempfert.github.io/authors/yishi-wang/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://kkempfert.github.io/authors/yishi-wang/</guid>
       <description></description>
     </item>
