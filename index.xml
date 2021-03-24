@@ -5,12 +5,20 @@
     <link>https://kkempfert.github.io/</link>
       <atom:link href="https://kkempfert.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine Kempfert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Wed, 24 Mar 2021 17:11:29 -0400</lastBuildDate>
     <image>
       <url>https://kkempfert.github.io/img/icon-192.png</url>
       <title>Katherine Kempfert</title>
       <link>https://kkempfert.github.io/</link>
     </image>
+    
+    <item>
+      <title>Dengue</title>
+      <link>https://kkempfert.github.io/project/dengue/</link>
+      <pubDate>Wed, 24 Mar 2021 17:11:29 -0400</pubDate>
+      <guid>https://kkempfert.github.io/project/dengue/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets</title>
