@@ -53,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://kkempfert.github.io/publication/haydn_mozart/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kkempfert.github.io/publication_types/1/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -110,6 +105,10 @@
   
   <url>
     <loc>https://kkempfert.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kkempfert.github.io/publication/haydn_mozart/</loc>
   </url>
   
 </urlset>
