@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Osthus | Katherine Kempfert</title>
+    <link>https://kkempfert.github.io/authors/david-osthus/</link>
+      <atom:link href="https://kkempfert.github.io/authors/david-osthus/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Osthus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kkempfert.github.io/img/icon-192.png</url>
+      <title>David Osthus</title>
+      <link>https://kkempfert.github.io/authors/david-osthus/</link>
+    </image>
+    
+    <item>
+      <title>Time Series Methods and Ensemble Models to Nowcast Dengue at the State Level in Brazil</title>
+      <link>https://kkempfert.github.io/works/dengue/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://kkempfert.github.io/works/dengue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
