@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Katherine Kempfert</title>
+    <title>Works | Katherine Kempfert</title>
     <link>https://kkempfert.github.io/works/</link>
       <atom:link href="https://kkempfert.github.io/works/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <description>Works</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Katherine Kempfert</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kkempfert.github.io/img/icon-192.png</url>
-      <title>Publications</title>
+      <title>Works</title>
       <link>https://kkempfert.github.io/works/</link>
     </image>
     
